@@ -1,0 +1,11 @@
+package com.example.camel;
+
+```xml
+<dependency>
+    <groupId>org.junit.jupiter</groupId>
+    <artifactId>junit-jupiter-api</artifactId>
+    <version>5.9.0</version>
+    <scope>test</scope>
+</dependency>
+
+```
